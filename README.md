@@ -1,2 +1,2 @@
 # gitNBA
-treinando GIT
+treinando GIT com gitHub
