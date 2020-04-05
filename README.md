@@ -1,3 +1,6 @@
 # gitNBA
 
-treinando GIT com gitHub
+## Treinando GIT com gitHub
+
+### Clique aqui !
+[NBA](https://www.nba.com/)
